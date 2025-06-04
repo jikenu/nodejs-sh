@@ -8,7 +8,7 @@
   "private": false,
   "scripts": {
     "run": "echo \"run application\" & node index.js",
-    "build": "echo \"Building application...\" & node index,js"
+    "build": "echo \"Building application...\" & node index.js"
   },
   "engines": {
     "node": ">=14"
